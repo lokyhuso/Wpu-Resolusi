@@ -1,2 +1,2 @@
-# Wpu-Resolusi
-Repository untuk menyimpan rencana wpu kedepannya
+# Portofolio Project
+Portofolio ini adalah project pribadi
